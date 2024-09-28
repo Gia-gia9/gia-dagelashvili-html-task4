@@ -1,0 +1,39 @@
+* {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+
+}
+div {
+    font-size: 20px;
+    color: white;
+    border: 5px solid red
+    ;
+}
+h1 {
+color: rgb(226, 43, 98);
+background-color: bisque;
+font-size: 50px;
+}
+h2 {
+    color: blue;
+    font-size: 24px;
+}
+p {
+    color: rgb(255, 255, 255);
+    line-height: 30px;
+}
+.box {
+    background-color: aquamarine;
+    width: 300px;
+}
+
+
+#ola {
+    color: rgb(rgb(20, 18, 137), green, blue);
+    width: 300px;
+    height: 200px;
+}
+ 
